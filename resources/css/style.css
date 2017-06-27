@@ -103,3 +103,85 @@ button:hover {
   justify-content: center;
   margin-left: 40px;
 }
+
+#practice {
+  display: flex;
+}
+
+#practice h1{
+  font-family: "Rufina", serif;
+  font-size: 2rem;
+  line-height: 1.8rem;
+  margin: 32px 0 24px 0;
+}
+
+.holder-practice-main {
+  padding: 32px 24px;
+  border-right: 1px solid #007EA7;
+}
+
+.holder-img-practice {
+  width: 100%;
+  height: auto;
+}
+
+.img-practice {
+  width: 100%;
+  height: auto;
+}
+
+.quoted {
+  margin: 20px 0;
+  font-weight: bold;
+}
+
+#practice h3 {
+  font-family: "Rufina", serif;
+  font-size: 1.5rem;
+}
+
+#practice h4 {
+  font-family: "Oxygen", sans-serif;
+  font-size: 0.8rem;
+  margin: 8px 0;
+}
+
+#practice a {
+  text-decoration: underline;
+}
+
+#practice a:hover {
+  text-decoration: none;
+}
+
+.holder-campus-info {
+  min-width: 423px;
+}
+
+.campus-info-single {
+  display: flex;
+  min-height: 168px;
+  border-bottom: 1px solid #007EA7;
+}
+
+.holder-img-campus-info {
+  max-width: 33%;
+  height: auto;
+  margin: 16px;
+}
+
+.img-campus-info {
+  width: 100%;
+  height: auto;
+}
+
+.img-campus-info-mobile{
+  display: none;
+}
+
+.campus-info-text {
+  display: flex;
+  flex-flow: wrap column;
+  justify-content: center;
+  margin-right: 8px;
+}
