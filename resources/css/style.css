@@ -185,3 +185,54 @@ button:hover {
   justify-content: center;
   margin-right: 8px;
 }
+
+#learning {
+  background-color: #007EA7;
+  padding-bottom: 16px;
+}
+
+#learning h1 {
+  font-family: "Rufina", serif;
+  font-size: 2rem;
+  padding: 32px 0 16px 0;
+  text-align: center;
+}
+
+#learning h2 {
+  font-family: "Rufina", serif;
+  font-size: 1.5rem;
+  margin: 16px 0;
+}
+
+#learning h3 {
+  font-family: "oxygen", sans-serif;
+  font-size: 1rem;
+  margin: 8px 0;
+}
+
+.holder-courses {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.holder-course {
+  background-color: #CCDBDC;
+  width: 30%;
+  margin: 16px;
+  padding-bottom: 24px;
+}
+
+.holder-course-txt {
+  padding: 16px 16px;
+}
+
+.holder-course-img {
+  width: 100%;
+  height: auto;
+}
+
+.course-img {
+  width: 100%;
+  height: auto;
+}
