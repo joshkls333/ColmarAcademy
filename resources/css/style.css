@@ -165,7 +165,7 @@ button:hover {
 }
 
 .holder-img-campus-info {
-  max-width: 33%;
+  max-width: 35%;
   height: auto;
   margin: 16px;
 }
@@ -235,4 +235,74 @@ button:hover {
 .course-img {
   width: 100%;
   height: auto;
+}
+
+.holder-thesis {
+  width: 100%;
+  display: flex;
+}
+
+.holder-vid {
+  height: auto;
+  width: 100%;
+  padding-left: 24px;
+}
+
+video {
+  height: auto;
+  width: 100%;
+}
+
+#thesis h1 {
+  font-family: "Rufina", serif;
+  font-size: 2rem;
+  padding: 32px 0;
+  text-align: center;
+}
+
+#thesis h3 {
+  font-family: "Rufina", serif;
+  font-size: 1.5rem;
+}
+
+#thesis h4 {
+  font-family: "Oxygen", sans-serif;
+  font-size: 0.8rem;
+  margin: 8px 0;
+}
+.holder-thesis-txt {
+  margin: 24px 0 32px 24px;
+}
+
+.holder-thesis-txt p {
+  margin-top: 16px;
+}
+
+.holder-thesis-info {
+  min-width: 423px;
+  margin-left: 16px;
+}
+
+.thesis-info-single {
+  min-height: 168px;
+  display: flex;
+  align-items: center;
+}
+
+.holder-thesis-img {
+  max-width: 35%;
+  height: auto;
+  margin: 16px;
+}
+
+.thesis-img {
+  width: 100%;
+  height: auto;
+}
+
+.thesis-info-txt {
+  display: flex;
+  flex-flow: wrap column;
+  justify-content: center;
+  margin-right: 8px;
 }
