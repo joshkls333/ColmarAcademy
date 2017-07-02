@@ -82,7 +82,7 @@ header {
 }
 
 #learn h1 {
-  font-family: "Khula", serif;
+  font-family: "Khula", sans-serif;
   font-size: 2rem;
   line-height: 1.8rem;
 }
@@ -129,7 +129,7 @@ button:hover {
 }
 
 #practice h1{
-  font-family: "Khula", serif;
+  font-family: "Khula", sans-serif;
   font-size: 2rem;
   line-height: 1.8rem;
   margin: 32px 0 24px 0;
@@ -156,7 +156,7 @@ button:hover {
 }
 
 #practice h3 {
-  font-family: "Khula", serif;
+  font-family: "Khula", sans-serif;
   font-size: 1.5rem;
 }
 
@@ -216,14 +216,14 @@ button:hover {
 }
 
 #learning h1 {
-  font-family: "Khula", serif;
+  font-family: "Khula", sans-serif;
   font-size: 2rem;
   padding: 32px 0 16px 0;
   text-align: center;
 }
 
 #learning h2 {
-  font-family: "Khula", serif;
+  font-family: "Khula", sans-serif;
   font-size: 1.5rem;
   margin: 16px 0;
 }
@@ -278,14 +278,14 @@ video {
 }
 
 #thesis h1 {
-  font-family: "Khula", serif;
+  font-family: "Khula", sans-serif;
   font-size: 2rem;
   padding: 32px 0;
   text-align: center;
 }
 
 #thesis h3 {
-  font-family: "Khula", serif;
+  font-family: "Khula", sans-serif;
   font-size: 1.5rem;
 }
 
