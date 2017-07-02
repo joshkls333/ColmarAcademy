@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oxygen|Rufina');
-
+@import url('https://fonts.googleapis.com/css?family=Catamaran|Khula');
 /*
 #003249
 #007EA7
@@ -19,17 +18,17 @@ html {
 }
 
 body {
-  font-family: "Oxygen", sans-serif;
+  font-family: "Catamaran", sans-serif;
   background-color: #CCDBDC;
 }
 
-.rufina {
-  font-family: "Rufina", serif;
+.catamaran {
+  font-family: "Catamaran", sans-serif;
   font-size: 1.5rem;
 }
 
-.oxygen {
-  font-family: "Oxygen", sans-serif;
+.khula {
+  font-family: "Khula", sans-serif;
 }
 
 a {
@@ -83,7 +82,7 @@ header {
 }
 
 #learn h1 {
-  font-family: "Rufina", serif;
+  font-family: "Khula", serif;
   font-size: 2rem;
   line-height: 1.8rem;
 }
@@ -97,7 +96,7 @@ button {
   background-color: #003249;
   color: #CCDBDC;
   border: 0;
-  font-family: "Oxygen", sans-serif;
+  font-family: "Catamaran", sans-serif;
   font-size: 1rem;
   padding: 8px 0;
   border: 2px solid #003249;
@@ -130,7 +129,7 @@ button:hover {
 }
 
 #practice h1{
-  font-family: "Rufina", serif;
+  font-family: "Khula", serif;
   font-size: 2rem;
   line-height: 1.8rem;
   margin: 32px 0 24px 0;
@@ -157,12 +156,12 @@ button:hover {
 }
 
 #practice h3 {
-  font-family: "Rufina", serif;
+  font-family: "Khula", serif;
   font-size: 1.5rem;
 }
 
 #practice h4 {
-  font-family: "Oxygen", sans-serif;
+  font-family: "Catamaran", sans-serif;
   font-size: 0.8rem;
   margin: 8px 0;
 }
@@ -217,20 +216,20 @@ button:hover {
 }
 
 #learning h1 {
-  font-family: "Rufina", serif;
+  font-family: "Khula", serif;
   font-size: 2rem;
   padding: 32px 0 16px 0;
   text-align: center;
 }
 
 #learning h2 {
-  font-family: "Rufina", serif;
+  font-family: "Khula", serif;
   font-size: 1.5rem;
   margin: 16px 0;
 }
 
 #learning h3 {
-  font-family: "Oxygen", sans-serif;
+  font-family: "Catamaran", sans-serif;
   font-size: 1rem;
   margin: 8px 0;
 }
@@ -279,19 +278,19 @@ video {
 }
 
 #thesis h1 {
-  font-family: "Rufina", serif;
+  font-family: "Khula", serif;
   font-size: 2rem;
   padding: 32px 0;
   text-align: center;
 }
 
 #thesis h3 {
-  font-family: "Rufina", serif;
+  font-family: "Khula", serif;
   font-size: 1.5rem;
 }
 
 #thesis h4 {
-  font-family: "Oxygen", sans-serif;
+  font-family: "Catamaran", sans-serif;
   font-size: 0.8rem;
   margin: 8px 0;
 }
